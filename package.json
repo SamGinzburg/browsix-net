@@ -1,0 +1,27 @@
+{
+  "name": "browsix-net",
+  "version": "0.0.1",
+  "description": "A signalling server for Browsix",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamGinzburg/browsix-net.git"
+  },
+  "keywords": [
+    "Browsix",
+    "Networking",
+    "WebRTC"
+  ],
+  "author": "Sam Ginzburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamGinzburg/browsix-net/issues"
+  },
+  "homepage": "https://github.com/SamGinzburg/browsix-net#readme",
+  "dependencies": {
+    "peer": "^0.2.8"
+  }
+}
